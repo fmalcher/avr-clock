@@ -8,3 +8,7 @@ Feel free to fork, contribute or ask questions.
 ## Demonstration
 
 [![Bau einer Binäruhr](https://img.youtube.com/vi/sluBzaCNyI8/0.jpg)](https://www.youtube.com/watch?v=sluBzaCNyI8)
+
+## Issues
+* Debouncing does not work correctly
+* DCF77 implementation could be much more efficient
